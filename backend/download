@@ -1,3 +1,4 @@
 PORT=8080
-MONGO_CONN=mongodb+srv://ShivaniKamath:Demo0@cluster0.a7m7ja5.mongodb.net/auth-db?retryWrites=true&w=majority&appName=Cluster0
+MONGO_CONN=mongodb+srv://database.mongodb.net/auth-db?retryWrites=true&w=majority&appName=Cluster0
 JWT_SECRET=myverysecuresecret
+
